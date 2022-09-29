@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:86E57F&height=300&section=header&text=Welcome&fontSize=80&fontColor=F6F6F6&animation=twinkling)
-![footer](https://capsule-render.vercel.app/api?section=footer&text=안녕)
+
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&text=Thank_you&color=0:FFFFFF,100:86E57F)
