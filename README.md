@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:FFFFFF,100:86E57F)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=0:FFFFFF,100:86E57F&type=Things that helped contribute)
