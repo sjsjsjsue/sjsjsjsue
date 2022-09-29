@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sjsjsjsue=anuraghazra&theme=darcula_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sjsjsjsue=anuraghazra&theme=darcula_icons=true) <맨 아래 S>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) <맨위 꾸미기>
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:86E57F&height=300&section=header&text=Welcome&fontSize=80&fontColor=F6F6F6&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?section=footer&text=안녕)
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
