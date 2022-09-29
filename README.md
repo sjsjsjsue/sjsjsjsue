@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sjsjsjsue=anuraghazra&theme=darcula_icons=true)
 -->
+<hr>
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
