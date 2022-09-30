@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
 
 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
