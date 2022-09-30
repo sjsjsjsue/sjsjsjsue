@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:E4F7BA,100:788B4E&height=200&section=header&text=Welcome&fontSize=80&fontColor=EAEAEA&animation=twinkling&desc=수정_Sue_Git&descSize=20&descAlign=60)
 
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git)
 
 
 
