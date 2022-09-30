@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 
-![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
+![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
 
