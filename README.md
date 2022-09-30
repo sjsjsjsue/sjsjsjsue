@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sjsjsue&repo=github-readme-stats)](https://github.com/jsjsjsjsue/github-readme-stats)
+https://github.com/sjsjsjsue/hit-counter
