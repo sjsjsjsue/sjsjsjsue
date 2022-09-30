@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
 
+# setup
+pipenv install --dev
+# testing
+pipenv run python chess_com_box.py test <gist-id> <github-token> <user>
+# example
+# pipenv run python chess_com_box.py test ce5221fc5f3739d2c81ce7db99f17519 cf9181618bf1618253d17161843f71a2bb161850 sciencepal
+
