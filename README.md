@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4F7BA,100:788B4E&height=300&section=header&text=Welcome&fontSize=80&fontColor=EAEAEA&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4F7BA,100:788B4Eheight=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
 
