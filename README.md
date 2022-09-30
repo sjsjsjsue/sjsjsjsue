@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) <맨위 꾸미기>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A5DE9F,100:2F9D27&height=300&section=header&text=Welcome&fontSize=80&fontColor=F6F6F6&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A5DE9F,100:397233&height=300&section=header&text=Welcome&fontSize=80&fontColor=F6F6F6&animation=twinkling)
 
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:A5DE9F,100:86E57F&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=0:A5DE9F,100:397233&type=waving)
