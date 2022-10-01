@@ -1,14 +1,10 @@
 
 <!--
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sjsjsjsue=anuraghazra&theme=darcula_icons=true) <맨 아래 S>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) <맨위 꾸미기>
+![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:EDC7E8,100:121212&type=waving)
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:E4F7BA,100:788B4E&height=200&section=header&text=Welcome&fontSize=80&fontColor=EAEAEA&animation=twinkling&desc=수정_Sue_Git&descSize=20&descAlign=60&fontColor=BCE9B7)
-
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%수정's%Git&animation=fadeIn) <!--header-->
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%수정's%Git&animation=fadeIn) <header>
+-->
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn&fontColor=B7F0B1)<!--header-->
@@ -31,20 +27,24 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!--My SQL-->
 
  <br><br><br>
- <h2>:gem:Tools</h2><br>
+ <h2>:gem:&nbsp&nbspTools</h2><br>
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><!--Visual Studio-->
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <!--Visual Studio code-->
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!--Github-->
 
 <br><br><br>
-<!--    <h2> :muscle:My Stat</h2><br> -->
-![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
+
+:muscle:My Stat
+
+![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)<br>
+
+My Most Used Language <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
-  
+</div>  
 
 
 
-</div>
+
 
 
