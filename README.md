@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn&fontColor=B7F0B1)
 <div align="center">
 
 
