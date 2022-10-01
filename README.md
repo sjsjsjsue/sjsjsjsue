@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
 -->
-![header](https://capsule-render.vercel.app/api?type=slice)
+
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
 <div align="center">
 
 
