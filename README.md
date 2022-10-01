@@ -24,12 +24,18 @@
     
 <br><br><br>
  <h2> :pencil2:&nbsp&nbsp Studying</h2><br>
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!--Github-->
+
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <!--JavaScript-->
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <!--JavaScript-->
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <!--Java-->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!--My SQL-->
 
+ <br><br><br>
+ <h2>Tools</h2><br>
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><!--Visual Studio-->
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <!--Visual Studio code-->
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!--Github-->
 
 <br><br><br>
 <!--    <h2> :muscle:My Stat</h2><br> -->
