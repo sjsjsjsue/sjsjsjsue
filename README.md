@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<hr>
+
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
 </div>
