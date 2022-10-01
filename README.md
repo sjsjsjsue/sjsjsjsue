@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:E4F7BA,100:788B4E&height=200&section=header&text=Welcome&fontSize=80&fontColor=EAEAEA&animation=twinkling&desc=수정_Sue_Git&descSize=20&descAlign=60&fontColor=BCE9B7)
 
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
 -->
 
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn)
-
+<hr>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjsjsjsue%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
