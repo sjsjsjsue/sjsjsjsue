@@ -19,7 +19,7 @@
   프론트와 백앤드 모두 관심있는 열정 가득한 신입 개발자입니다.:green_heart:<br>
     
 <br><br><br>
- <h2> :pencil2:&nbsp&nbsp Studying</h2><br>
+ <h2> :pencil2:&nbsp;&nbsp; Studying</h2><br>
 
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <!--JavaScript-->
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <!--JavaScript-->
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!--My SQL-->
 
  <br><br><br>
- <h2>:gem:&nbsp&nbspTools</h2><br>
+ <h2>:gem: &nbsp;&nbsp; Tools</h2><br>
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><!--Visual Studio-->
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <!--Visual Studio code-->
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
@@ -35,11 +35,11 @@
 
 <br><br><br>
 
-:muscle:My Stat
+## :muscle: &nbsp;&nbsp;  My Stat
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)<br>
 
-My Most Used Language <br>
+## :muscle: &nbsp;&nbsp; My Most Used Language <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
 </div>  
 
