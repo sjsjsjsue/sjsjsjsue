@@ -39,7 +39,7 @@
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)<br>
 
-## :muscle: &nbsp;&nbsp; My Most Used Language <br>
+## :crown: &nbsp;&nbsp; My Most Used Language <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
 </div>  
 
