@@ -19,7 +19,7 @@
   프론트와 백앤드 모두 관심있는 열정 가득한 신입 개발자입니다.:green_heart:<br>
     
 <br><br><br>
- <h2> :pencil2:&nbsp;&nbsp; Studying</h2><br>
+ <h2> :pencil2:&nbsp;&nbsp; Stacks </h2><br>
 
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <!--JavaScript-->
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <!--JavaScript-->
@@ -38,7 +38,7 @@
 ## :muscle: &nbsp;&nbsp;  My Stat
 
 ![sjsjsjsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsjsue&theme=dark&show_icons=true&fontColor=BCE9B7)<br>
-
+ <br><br><br>
 ## :crown: &nbsp;&nbsp; My Most Used Language <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsjsue&layout=compact)
 </div>  
