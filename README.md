@@ -10,7 +10,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_수정's_Git&animation=fadeIn&fontColor=B1DF85)<!--header-->
 <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjsjsjsue%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true) <!--방문자수-->
-<a href="https://www.instagram.com/modixcode/" target="_blank"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instargram&logoColor=white"/></a> <!--인스타그램-->
+<a href="https://www.instagram.com/modixcode/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <!--인스타그램-->
+<a href="https://https://modixcode.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <div align="center">
 <br>
  
