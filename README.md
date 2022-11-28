@@ -27,7 +27,8 @@
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <!--Java-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!--My SQL--><br>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <!--Spring-->
-  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/> <!--Spring-->
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/> <!--Spring boot-->
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascriptt&logoColor=white"/> <!--Spring-->
  
 
  <br><br><br>
