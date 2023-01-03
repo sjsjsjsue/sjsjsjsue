@@ -30,6 +30,7 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <!--Visual Studio code-->
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!--Github-->
+ <br>☁ &nbsp;&nbsp; <b>Cloud<b><br>
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/><!--Amazon AWS-->
  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white"/><!--Atlassian-->
 
