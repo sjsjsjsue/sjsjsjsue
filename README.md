@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!--My SQL-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <!--Spring-->
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/> <!--Spring boot-->
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascriptt&logoColor=white"/> <!--javascript-->
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <!--javascript-->
  
  
  :gem: &nbsp;&nbsp; <b>Tools<b><br>
